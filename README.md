@@ -82,7 +82,5 @@ go mod tidy
 ## 📝 License
 MIT License - Feel free to modify and distribute!
 
----
 
-🚀 **Happy Coding!** 🎉
 
